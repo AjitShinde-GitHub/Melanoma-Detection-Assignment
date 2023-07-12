@@ -16,25 +16,20 @@ Vascular lesion
 
 ## Table of Contents
 * Data Reading/Data Understanding
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+* Dataset Creation
+* Dataset visualisation
+* Model Building & training
+* Data augmentation strategy to resolve underfitting/overfitting
+* Model Building & training on the augmented data
+* Class distribution
+* Handling class imbalances
+* Model Building & training on the rectified class imbalance data
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The results in graph and training data indicate that the accuracy has improved and that there is no overfitting of the model.
+- Yes , class rebalancing helped to increse the accuracy significantly.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
